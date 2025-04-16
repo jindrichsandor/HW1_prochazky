@@ -1,0 +1,2 @@
+N = 10000 ; pocet vygenerovanych nezavislych nahodnych prochazek pro kazde n
+t = 17544.59229493141 s ; celkovy cas behu programu
