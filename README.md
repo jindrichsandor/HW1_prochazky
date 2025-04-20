@@ -2,7 +2,7 @@
 **1_ProstaProchazka.py** <br/>
 **2_BezNavratu.py** <br/>
 **3_BezPrekrizeni.py** <br/>
-- skripty jsou napsané pro všechny typy 2D mříží, přičemž volba mříže je ve skritpech dána proměnnou * *grid* *:  <br/>
+Skripty jsou napsané pro všechny typy 2D mříží, přičemž volba mříže je ve skritpech dána proměnnou * *grid* *:  <br/>
 * grid = 1 => čtvercová mříž
 * grid = 2 => trojúhelníková mříž
 * grid = 3 => hexagonální mříž
